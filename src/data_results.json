@@ -1,0 +1,2130 @@
+{
+  "cet": [
+    {
+      "name": "Poornachandra A.N",
+      "details": "MED 86  ENG 246  ISMH 49  BSc Ag 29  BVSC 86",
+      "img": "img/2014-15/Poornachandra A.N.png"
+    },
+    {
+      "name": "Ruthvik S.",
+      "details": "MED 293  ENG 470  ISMH 228  BSc Ag 129  BVSC 293",
+      "img": "img/2014-15/Ruthvik S.png"
+    },
+    {
+      "name": "Abhishek C.R.",
+      "details": "MED 457  ENG 268  ISMH 257  BSc Ag 73  BVSC 457",
+      "img": "img/2014-15/Abhishek C.R.png"
+    },
+    {
+      "name": "Shakthi A.B.",
+      "details": "MED 636  ENG 1366  ISMH 471  BSc Ag 381  BVSC 638",
+      "img": "img/2014-15/Shakthi A.B.png"
+    },
+    {
+      "name": "Mansi Kumaraswamy",
+      "details": "MED 639  ENG 1164  ISMH 443  BSc Ag 326  BVSC 639",
+      "img": "img/2014-15/Mansi Kumaraswamy.png"
+    },
+    {
+      "name": "Ayesha Ilyaz",
+      "details": "MED 680  ENG 645  ISMH 489  BSc Ag 139  BVSC 680",
+      "img": "img/2014-15/Ayesha Ilyaz.png"
+    },
+    {
+      "name": "Abhaya Chandra G.P.",
+      "details": "MED 827  ENG 1288  ISMH 675  BSc Ag 477  BVSC 827",
+      "img": "img/2014-15/Abhaya Chandra G.P.png"
+    },
+    {
+      "name": "Mukthishree D.N",
+      "details": "MED 944  ENG 2819  ISMH 665  BSc Ag 722  BVSC 944",
+      "img": "img/2014-15/mukthi.jpg"
+    },
+    {
+      "name": "Abhishek .V",
+      "details": "MED 638  ENG 1366  ISMH 474  BSc Ag 381  BVSC 638",
+      "img": "img/2014-15/ABHISHEK.jpg"
+    },
+    {
+      "name": "Raksha Revanna",
+      "details": "MED 1134  ENG 2389  ISMH 790  BSc Ag 812  BVSC 1134",
+      "img": "img/2014-15/rashika.png"
+    },
+    {
+      "name": "Divyashree H.D.",
+      "details": "MED 1164  ENG 1688  ISMH 937  BSc Ag 694  BVSC 1164",
+      "img": "img/2014-15/dhivyasree.png"
+    },
+    {
+      "name": "Sreenivas N.M.",
+      "details": "MED 124  ENG 1081  ISMH 786  BSc Ag 387  BVSC 1245",
+      "img": "img/2014-15/sreenivas.png"
+    },
+    {
+      "name": "Skanda Hebbar H.S.",
+      "details": "MED 1403  ENG 1526  ISMH 1627  BSc Ag 474  BVSC 1403",
+      "img": "img/2014-15/skanda.png"
+    },
+    {
+      "name": "Sunil Gupta K.N",
+      "details": "MED 1639  ENG 1560  ISMH 1314  BSc Ag 695  BVSC 1639",
+      "img": "img/2014-15/sunil.png"
+    },
+    {
+      "name": "Bindushree H.N.",
+      "details": "MED 1723  ENG 2283  ISMH 1232  BSc Ag 886  BVSC 1723",
+      "img": "img/2014-15/bindusree.png"
+    },
+    {
+      "name": "Malathi K.",
+      "details": "MED 1725  ENG 1729  ISMH 1396  BSc Ag 644  BVSC 1725",
+      "img": "img/2014-15/mallathi.png"
+    },
+    {
+      "name": "Sanchitha M.S.",
+      "details": "MED 1785  ENG 4182  ISMH 1462  BSc Ag 1258  BVSC 1768",
+      "img": "img/2014-15/sanjitha.jpg"
+    },
+    {
+      "name": "Prashanth B.L",
+      "details": "MED 1822  ENG 2841  ISMH 1244  BSc Ag 1038  BVSC 1822",
+      "img": "img/2014-15/prasanth.jpg"
+    },
+    {
+      "name": "Puneeth M.V.",
+      "details": "MED 1827  ENG 2989  ISMH 1963  BSc Ag 1136  BVSC 1827",
+      "img": "img/2014-15/puneeth.jpg"
+    },
+    {
+      "name": "Anusha M.S.",
+      "details": "MED 2142  ENG 2731  ISMH 1682  BSc Ag 948  BVSC 2142",
+      "img": "img/2014-15/anusha.jpg"
+    },
+    {
+      "name": "Sanjana Raj R.V.",
+      "details": "MED 2014  ENG 5593  ISMH 1079  BSc Ag 1230  BVSC 2014",
+      "img": "img/2014-15/sanjana.jpg"
+    },
+    {
+      "name": "Meghana H.N.",
+      "details": "MED 2061  ENG 2903  ISMH 1399  BSc Ag 1419  BVSC 2061",
+      "img": "img/2014-15/megna.jpg"
+    },
+    {
+      "name": "Anusha S.",
+      "details": "MED 2142  ENG 2731  ISMH 1682  BSc Ag 948  BVSC 2142",
+      "img": "img/2014-15/anusha.jpg"
+    },
+    {
+      "name": "Daivik L. RAJ.",
+      "details": "MED 2170  ENG 2883  ISMH 1747  BSc Ag 1145  BVSC 2170",
+      "img": "img/2014-15/dhaivaka.jpg"
+    },
+    {
+      "name": "Pooja M.G",
+      "details": "MED 2208  ENG 2317  ISMH 1435  BSc Ag 1049  BVSC 2206",
+      "img": "img/2014-15/pooja.jpg"
+    },
+    {
+      "name": "Chandan H.C.",
+      "details": "MED 2452  ENG 2631  ISMH 1715  BSc Ag 1093  BVSC 2453",
+      "img": "img/2014-15/chandan.jpg"
+    },
+    {
+      "name": "Anup Saud",
+      "details": "MED 2462  ENG 3631  ISMH 2109  BSc Ag 1397  BVSC 2463",
+      "img": "img/2014-15/anup.jpg"
+    },
+    {
+      "name": "Sandhya B.N.",
+      "details": "MED 2645  ENG 2981  ISMH 2341  BSc Ag 1499  BVSC 2648",
+      "img": "img/2014-15/Sandhya B.N.jpg"
+    },
+    {
+      "name": "Sindu C.",
+      "details": "MED 2475  ENG 3965  ISMH 1773  BSc Ag 1675  BVSC 2476",
+      "img": "img/2014-15/sindu.jpg"
+    },
+    {
+      "name": "Rashmi K.T.",
+      "details": "MED 2681  ENG 3065  ISMH 1779  BSc Ag 1002  BVSC 2682",
+      "img": "img/2014-15/reshmi.jpg"
+    },
+    {
+      "name": "Aishwarya G. Prasad",
+      "details": "MED 2686  ENG 5234  ISMH 2236  BSc Ag 1828  BVSC 2687",
+      "img": "img/2014-15/ashwarya.jpg"
+    },
+    {
+      "name": "Adithya B.R.",
+      "details": "MED 2708  ENG 3877  ISMH 2137  BSc Ag 1426  BVSC 2709",
+      "img": "img/2014-15/adhithya.jpg"
+    },
+    {
+      "name": "Prajwal M.",
+      "details": "MED 2774  ENG 3615  ISMH 3424  BSc Ag 1904  BVSC 2775",
+      "img": "img/2014-15/prajwal.jpg"
+    },
+    {
+      "name": "Monish S.R.",
+      "details": "ENG 2086",
+      "img": "img/2014-15/monish.jpg"
+    },
+    {
+      "name": "Nikhil R. Keshav",
+      "details": "ENG 3095",
+      "img": "img/2014-15/nikhil.jpg"
+    },
+    {
+      "name": "Thilak H.S.",
+      "details": "ENG 3361",
+      "img": "img/2014-15/thilak.jpg"
+    },
+    {
+      "name": "Gousia M. Tajassum",
+      "details": "ENG 3396",
+      "img": "img/2014-15/gousia.jpg"
+    },
+    {
+      "name": "Nanditha V.",
+      "details": "ENG 3617",
+      "img": "img/2014-15/nanditha.jpg"
+    },
+    {
+      "name": "Moulya N. Kumar",
+      "details": "ENG 2929",
+      "img": "img/2014-15/moulya.jpg"
+    },
+    {
+      "name": "Omkar D.",
+      "details": "ENG 4319",
+      "img": "img/2014-15/pmkar.jpg"
+    },
+    {
+      "name": "Prakrthi S.K.",
+      "details": "ENG 4397",
+      "img": "img/2014-15/prakrthi.jpg"
+    },
+    {
+      "name": "Adarash Dundappa",
+      "details": "ENG 4476",
+      "img": "img/2014-15/adrash.jpg"
+    },
+    {
+      "name": "Yashaswini S.D.",
+      "details": "ENG 4513",
+      "img": "img/2014-15/yashwani.jpg"
+    },
+    {
+      "name": "Prajwal M.",
+      "details": "ENG 4685",
+      "img": "img/2014-15/prajwal2.jpg"
+    },
+    {
+      "name": "Harshavardhan Gowda",
+      "details": "ENG 4825",
+      "img": "img/2014-15/harshavarthan.jpg"
+    },
+    {
+      "name": "Anil K.S",
+      "details": "ENG 4961",
+      "img": "img/2014-15/anil.jpg"
+    },
+    {
+      "name": "Anirudh Iyenger",
+      "details": "ENG 5168",
+      "img": "img/2014-15/anirudh.jpg"
+    },
+    {
+      "name": "Vidya C.S.",
+      "details": "ENG 5176",
+      "img": "img/2014-15/vidhya.jpg"
+    },
+    {
+      "name": "Yashaswini J.S.",
+      "details": "ENG 5518",
+      "img": "img/2014-15/YASH.jpg"
+    },
+    {
+      "name": "Subramanya M.",
+      "details": "ENG 5529",
+      "img": "img/2014-15/subramanya.jpg"
+    },
+    {
+      "name": "Gowtham H.A.",
+      "details": "ENG 5803",
+      "img": "img/2014-15/goutham.jpg"
+    },
+    {
+      "name": "Sumaiyya Kulsum",
+      "details": "ENG 5964",
+      "img": "img/2014-15/sumaya.jpg"
+    },
+    {
+      "name": "Bhavana K.L.",
+      "details": "ENG 5995",
+      "img": "img/2014-15/bhavana.jpg"
+    }
+  ],
+  "puc": [
+    {
+      "name": "Arathi H K",
+      "details": "P-100 C-93 M-97 B-100 GT-575",
+      "img": "img/2016-17%20PU%20Result/aarathi%20hk.jpg"
+    },
+    {
+      "name": "Abhishek Gowda C L",
+      "details": "P-96 C-92 M-68 CS-98 GT-514",
+      "img": "img/2016-17%20PU%20Result/abhishek%20gowda%20cl.jpg"
+    },
+    {
+      "name": "Adarsh",
+      "details": "P-99 C-96 M-98 B-95 GT-560",
+      "img": "img/2016-17%20PU%20Result/adarsh.jpg"
+    },
+    {
+      "name": "Adithya B J",
+      "details": "P-95 C-99 M-92 CS-100 GT-549",
+      "img": "img/2016-17%20PU%20Result/adithya%20bj.jpg"
+    },
+    {
+      "name": "Adithya K",
+      "details": "P-96 C-90 M-95 B-96 GT-556",
+      "img": "img/2016-17%20PU%20Result/adithya%20k.jpg"
+    },
+    {
+      "name": "Adithya M",
+      "details": "P-95 C-94 M-91 B-94 GT-529",
+      "img": "img/2016-17%20PU%20Result/adithya%20m.jpg"
+    },
+    {
+      "name": "Agneyi B",
+      "details": "P-98 C-92 M-100 B-97 GT-563",
+      "img": "img/2016-17%20PU%20Result/agneyi.jpg"
+    },
+    {
+      "name": "Aishwarya Jain",
+      "details": "P-97 C-94 M-93 B-97 GT-573",
+      "img": "img/2016-17%20PU%20Result/aishwarya%20jain.jpg"
+    },
+    {
+      "name": "Ajay Joy C J",
+      "details": "P-95 C-98 M-95 CS-99 GT-541",
+      "img": "img/2016-17%20PU%20Result/ajay%20joy.jpg"
+    },
+    {
+      "name": "Akanksha Mohan",
+      "details": "P-96 C-96 M-99 B-95 GT-556",
+      "img": "img/2016-17%20PU%20Result/akanksha%20v%20mohan.jpg"
+    },
+    {
+      "name": "Akshatha B M",
+      "details": "P-100 C-96 M-97 B-97 GT-554",
+      "img": "img/2016-17%20PU%20Result/akshatha%20bm.jpg"
+    },
+    {
+      "name": "Akshatha KT",
+      "details": "P-97 C-91 M-88 B-96 GT-557",
+      "img": "img/2016-17%20PU%20Result/akshatha%20kt.jpg"
+    },
+    {
+      "name": "Akshatha RD",
+      "details": "P-92 C-76 M-87 B-93 GT-519",
+      "img": "img/2016-17%20PU%20Result/akshatha%20rd.jpg"
+    },
+    {
+      "name": "Amrutha H S",
+      "details": "P-93 C-83 M-98 B-100 GT-557",
+      "img": "img/2016-17Neet/amrutha%20hs.jpg"
+    },
+    {
+      "name": "Amulya P T",
+      "details": "P-100 C-88 M-100 B-100 GT-568",
+      "img": "img/2016-17%20PU%20Result/amulya%20pt.jpg"
+    },
+    {
+      "name": "Anand Gowda B",
+      "details": "P-95 C-95 M-96 B-99 GT-557",
+      "img": "img/2016-17%20PU%20Result/anand%20gowda.jpg"
+    },
+    {
+      "name": "Anjan G Prasad",
+      "details": "P-97 C-93 M-96 B-95 GT-559",
+      "img": "img/2016-17%20PU%20Result/anjan%20g.jpg"
+    },
+    {
+      "name": "Ankitha A",
+      "details": "P-94 C-87 M-85 B-99 GT-544",
+      "img": "img/2016-17%20PU%20Result/ankitha%20a.jpg"
+    },
+    {
+      "name": "Anoop S",
+      "details": "P-98 C-84 M-82 B-95 GT-533",
+      "img": "img/2016-17%20PU%20Result/anoop%20s.jpg"
+    },
+    {
+      "name": "Anuja",
+      "details": "P-99 C-93 M-100 B-100 GT-570",
+      "img": "img/2016-17%20PU%20Result/anuja.jpg"
+    },
+    {
+      "name": "Anupallavi H K",
+      "details": "P-95 C-84 M-91 B-100 GT-554",
+      "img": "img/2016-17%20PU%20Result/anupallavi%20hk.jpg"
+    },
+    {
+      "name": "Anusha H",
+      "details": "P-91 C-78 M-93 B-98 GT-530",
+      "img": "img/2016-17%20PU%20Result/anusha%20h.jpg"
+    },
+    {
+      "name": "Anusha HB",
+      "details": "P-89 C-81 M-99 B-95 GT-545",
+      "img": "img/2016-17%20PU%20Result/anusha%20hb.jpg"
+    },
+    {
+      "name": "Apporva Angadi V M",
+      "details": "P-99 C-94 M-90 B-97 GT-563",
+      "img": "img/2016-17%20PU%20Result/apoorva%20angadi%20vm.jpg"
+    },
+    {
+      "name": "Apoorva H M",
+      "details": "P-100 C-98 M-100 B-100 GT-585",
+      "img": "img/2016-17%20PU%20Result/apoorva%20hm.jpg"
+    },
+    {
+      "name": "Ayesha Harmain",
+      "details": "P-99 C-78 M-89 B-99 GT-557",
+      "img": "img/2016-17%20PU%20Result/ayesha%20harmin.jpg"
+    },
+    {
+      "name": "B Subhash",
+      "details": "P-98 C-87 M-97 B-93 GT-546",
+      "img": "img/2016-17%20PU%20Result/b%20subhash.jpg"
+    },
+    {
+      "name": "Banu Prathap Gowda",
+      "details": "P-100 C-94 M-97 B-96 GT-558",
+      "img": "img/2016-17%20PU%20Result/banu%20prathap.jpg"
+    },
+    {
+      "name": "Bhakthi D M",
+      "details": "P-99 C-85 M-93 B-96 GT-549",
+      "img": "img/2016-17%20PU%20Result/bhakthi%20db.jpg"
+    },
+    {
+      "name": "Bharathesh B T",
+      "details": "P-100 C-98 M-100 B-100 GT-575",
+      "img": "img/2016-17%20PU%20Result/bharthesh.jpg"
+    },
+    {
+      "name": "Bhavaikya M",
+      "details": "P-99 C-94 M-98 B-100 GT-573",
+      "img": "img/2016-17%20PU%20Result/bhavaikya.jpg"
+    },
+    {
+      "name": "Bhavyashri BR",
+      "details": "P-98 C-91 M-93 B-97 GT-568",
+      "img": "img/2016-17%20PU%20Result/bhavyashree%20br.jpg"
+    },
+    {
+      "name": "Bhoomika C Y",
+      "details": "P-96 C-91 M-96 B-97 GT-569",
+      "img": "img/2016-17%20PU%20Result/bhoomika%20cy.jpg"
+    },
+    {
+      "name": "Bhoomika H C",
+      "details": "P-100 C-94 M-100 B-97 GT-577",
+      "img": "img/2016-17%20PU%20Result/bhoomika%20hc.jpg"
+    },
+    {
+      "name": "Bhoomika H N",
+      "details": "P-90 C-79 M-81 B-96 GT-514",
+      "img": "img/2016-17%20PU%20Result/bhoomika%20hn.jpg"
+    },
+    {
+      "name": "Bhoomika M S",
+      "details": "P-99 C-95 M-100 B-98 GT-577",
+      "img": "img/2016-17%20PU%20Result/bhoomika%20ms.jpg"
+    },
+    {
+      "name": "Bhumika M R",
+      "details": "P-95 C-79 M-96 B-97 GT-542",
+      "img": "img/2016-17%20PU%20Result/bhumika%20mr.jpg"
+    },
+    {
+      "name": "Bindu H N",
+      "details": "P-88 C-77 M-97 CS-93 GT-514",
+      "img": "img/2016-17%20PU%20Result/bindu%20hn.jpg"
+    },
+    {
+      "name": "Bindushree M",
+      "details": "P-100 C-99 M-99 B-100 GT-588",
+      "img": "img/2016-17%20PU%20Result/bindushree.jpg"
+    },
+    {
+      "name": "Tanishq B R",
+      "details": "P-98 C-93 M-95 B-96 GT-547",
+      "img": "img/2016-17%20PU%20Result/br%20tanishq.jpg"
+    },
+    {
+      "name": "Brunda H A",
+      "details": "P-96 C-83 M-96 CS-95 GT-536",
+      "img": "img/2016-17%20PU%20Result/brunda%20ha.jpg"
+    },
+    {
+      "name": "Brunda S M",
+      "details": "P-96 C-85 M-92 CS-96 GT-532",
+      "img": "img/2016-17%20PU%20Result/brunda%20sm.jpg"
+    },
+    {
+      "name": "Chalana S",
+      "details": "P-98 C-90 M-98 B-95 GT-558",
+      "img": "img/2016-17%20PU%20Result/chalana.jpg"
+    },
+    {
+      "name": "Chandan H R",
+      "details": "P-95 C-87 M-95 CS-93 GT-533",
+      "img": "img/2016-17%20PU%20Result/chandan%20hr.jpg"
+    },
+    {
+      "name": "Chandana K S",
+      "details": "P-88 C-69 M-96 B-91 GT-521",
+      "img": "img/2016-17%20PU%20Result/chandana%20ks.jpg"
+    },
+    {
+      "name": "Chandana L",
+      "details": "P-93 C-90 M-100 B-96 GT-550",
+      "img": "img/2016-17%20PU%20Result/chandana%20l.jpg"
+    },
+    {
+      "name": "Chandana M",
+      "details": "P-98 C-85 M-76 B-97 GT-546",
+      "img": "img/2016-17%20PU%20Result/chandana%20m.jpg"
+    },
+    {
+      "name": "Chandana N",
+      "details": "P-88 C-90 M-90 B-100 GT-550",
+      "img": "img/2016-17%20PU%20Result/chandana%20n.jpg"
+    },
+    {
+      "name": "Chandana Shree BM",
+      "details": "P-100 C-97 M-100 B-98 GT-583",
+      "img": "img/2016-17%20PU%20Result/chandana%20shree%20bm.jpg"
+    },
+    {
+      "name": "Charan S R",
+      "details": "P-98 C-94 M-100 B-97 GT-574",
+      "img": "img/2016-17%20PU%20Result/charan%20sr.jpg"
+    },
+    {
+      "name": "Chethan H S",
+      "details": "P-99 C-93 M-100 B-97 GT-571",
+      "img": "img/2016-17%20PU%20Result/chethan%20hs.jpg"
+    },
+    {
+      "name": "Chethan Surya D",
+      "details": "P-96 C-88 M-99 CS-97 GT-557",
+      "img": "img/2016-17%20PU%20Result/chethan%20surya.jpg"
+    },
+    {
+      "name": "Chiranth H",
+      "details": "P-98 C-97 M-100 B-96 GT-579",
+      "img": "img/2016-17%20PU%20Result/chiranth%20h.jpg"
+    },
+    {
+      "name": "Chiranth N RAJ",
+      "details": "P-100 C-97 M-92 B-100 GT-574",
+      "img": "img/2016-17%20PU%20Result/chiranth%20n%20raj.jpg"
+    },
+    {
+      "name": "Chitrashree DR",
+      "details": "P-98 C-95 M-100 B-98 GT-580",
+      "img": "img/2016-17%20PU%20Result/chitrashree%20dn.jpg"
+    },
+    {
+      "name": "Daksha Kumar",
+      "details": "P-98 C-87 M-98 B-97 GT-563",
+      "img": "img/2016-17%20PU%20Result/daksha%20kumar.jpg"
+    },
+    {
+      "name": "Dhanush DA",
+      "details": "P-95 C-86 M-97 B-96 GT-529",
+      "img": "img/2016-17%20PU%20Result/danush%20da.jpg"
+    },
+    {
+      "name": "Darshan H A",
+      "details": "P-95 C-90 M-97 B-96 GT-557",
+      "img": "img/2016-17%20PU%20Result/darshan%20ha.jpg"
+    },
+    {
+      "name": "Darshan H L",
+      "details": "P-99 C-90 M-82 CS-97 GT-538",
+      "img": "img/2016-17%20PU%20Result/darshan%20hl.jpg"
+    },
+    {
+      "name": "Deenu H D",
+      "details": "P-100 C-95 M-99 B-100 GT-571",
+      "img": "img/2016-17%20PU%20Result/deenu%20hd.jpg"
+    },
+    {
+      "name": "Deepak T S",
+      "details": "P-99 C-100 M-95 B-100 GT-572",
+      "img": "img/2016-17%20PU%20Result/deepak%20ts.jpg"
+    },
+    {
+      "name": "Deepika C S",
+      "details": "P-100 C-95 M-99 B-96 GT-572",
+      "img": "img/2016-17%20PU%20Result/deepika%20cs.jpg"
+    },
+    {
+      "name": "Dhanush D",
+      "details": "P-95 C-86 M-96 B-96 GT-562",
+      "img": "img/2016-17%20PU%20Result/dhanush%20d.jpg"
+    },
+    {
+      "name": "Dhanya S",
+      "details": "P-90 C-86 M-91 B-96 GT-543",
+      "img": "img/2016-17%20PU%20Result/dhanya%20s.jpg"
+    },
+    {
+      "name": "Dheeraj Gowda",
+      "details": "P-92 C-90 M-80 B-93 GT-537",
+      "img": "img/2016-17%20PU%20Result/dheeraj%20gowda.jpg"
+    },
+    {
+      "name": "Gagan G R",
+      "details": "P-95 C-87 M-77 B-95 GT-522",
+      "img": "img/2016-17%20PU%20Result/gagan%20gr.jpg"
+    },
+    {
+      "name": "Gagandeep V",
+      "details": "P-97 C-92 M-95 B-99 GT-556",
+      "img": "img/2016-17%20PU%20Result/gagandeep%20v.jpg"
+    },
+    {
+      "name": "Gajan Gowda A B",
+      "details": "P-98 C-99 M-99 B-98 GT-556",
+      "img": "img/2016-17%20PU%20Result/gajan%20gowda.jpg"
+    },
+    {
+      "name": "Gayathri G P",
+      "details": "P-97 C-84 M-86 B-95 GT-540",
+      "img": "img/2016-17%20PU%20Result/gayathri%20gp.jpg"
+    },
+    {
+      "name": "Geetha Shivaramu A S",
+      "details": "P-98 C-91 M-97 B-99 GT-560",
+      "img": "img/2016-17%20PU%20Result/geetha%20shivaramu.jpg"
+    },
+    {
+      "name": "Gokul Venugopal",
+      "details": "P-94 C-95 M-86 CS-96 GT-526",
+      "img": "img/2016-17%20PU%20Result/gokul%20venugopal.jpg"
+    },
+    {
+      "name": "Goutham Ganesh M H",
+      "details": "P-95 C-93 M-94 B-99 GT-560",
+      "img": "img/2016-17%20PU%20Result/goutham%20ganesh.jpg"
+    },
+    {
+      "name": "Govardhan G D",
+      "details": "P-100 C-99 M-100 B-98 GT-583",
+      "img": "img/2016-17%20PU%20Result/govardhan%20gowda.jpg"
+    },
+    {
+      "name": "Grantha Bopaiah K",
+      "details": "P-86 C-86 M-90 B-100 GT-545",
+      "img": "img/2016-17%20PU%20Result/grantha.jpg"
+    },
+    {
+      "name": "Greeshma D",
+      "details": "P-97 C-97 M-99 B-100 GT-580",
+      "img": "img/2016-17%20PU%20Result/greeshma%20d.jpg"
+    },
+    {
+      "name": "H Priya Nandish",
+      "details": "P-97 C-95 M-97 B-98 GT-564",
+      "img": "img/2016-17%20PU%20Result/h%20priya.jpg"
+    },
+    {
+      "name": "H A Goutham",
+      "details": "P-100 C-97 M-98 CS-100 GT-571",
+      "img": "img/2016-17%20PU%20Result/ha%20goutham.jpg"
+    },
+    {
+      "name": "Hajira Shahid",
+      "details": "P-98 C-95 M-80 B-99 GT-564",
+      "img": "img/2016-17%20PU%20Result/hajira%20shahid.jpg"
+    },
+    {
+      "name": "Harsha B K",
+      "details": "P-100 C-95 M-89 B-100 GT-570",
+      "img": "img/2016-17%20PU%20Result/harsha%20bk.jpg"
+    },
+    {
+      "name": "Harshavardhan HG",
+      "details": "P-100 C-97 M-96 B-99 GT-583",
+      "img": "img/2016-17%20PU%20Result/harshavardhan.jpg"
+    },
+    {
+      "name": "Harshitha",
+      "details": "P-99 C-95 M-98 B-99 GT-582",
+      "img": "img/2016-17%20PU%20Result/harshitha%20b.jpg"
+    },
+    {
+      "name": "Harshitha D",
+      "details": "P-100 C-92 M-98 B-98 GT-578",
+      "img": "img/2016-17%20PU%20Result/harshitha%20d.jpg"
+    },
+    {
+      "name": "Harshitha B S",
+      "details": "P-99 C-95 M-98 B-99 GT-582",
+      "img": "img/2016-17%20PU%20Result/harshitha.jpg"
+    },
+    {
+      "name": "Hema S",
+      "details": "P-98 C-86 M-96 B-98 GT-552",
+      "img": "img/2016-17%20PU%20Result/hema%20s.jpg"
+    },
+    {
+      "name": "Hemanth A M",
+      "details": "P-99 C-76 M-92 B-96 GT-541",
+      "img": "img/2016-17%20PU%20Result/hemanth%20am.jpg"
+    },
+    {
+      "name": "Hemanth Gowda H U",
+      "details": "P-99 C-88 M-99 B-99 GT-548",
+      "img": "img/2016-17%20PU%20Result/hemanth%20gowda%20hu.jpg"
+    },
+    {
+      "name": "HEMANTH K P",
+      "details": "P-98 C-89 M-98 B-97 GT-552",
+      "img": "img/2016-17%20PU%20Result/hemanth%20kp.jpg"
+    },
+    {
+      "name": "Himalaya A S",
+      "details": "P-91 C-71 M-79 B-92 GT-510",
+      "img": "img/2016-17%20PU%20Result/himalay%20as.jpg"
+    },
+    {
+      "name": "Himanshi K",
+      "details": "P-95 C-89 M-85 B-90 GT-543",
+      "img": "img/2016-17%20PU%20Result/himanshi%20k.jpg"
+    },
+    {
+      "name": "HL Shreyas Gowda",
+      "details": "P-80 C-95 M-95 B-99 GT-539",
+      "img": "img/2016-17%20PU%20Result/hl%20shreyas%20gowda.jpg"
+    },
+    {
+      "name": "Impana HA",
+      "details": "P-98 C-90 M-96 B-94 GT-552",
+      "img": "img/2016-17%20PU%20Result/impana%20ha.jpg"
+    },
+    {
+      "name": "Impana V",
+      "details": "P-100 C-86 M-98 B-97 GT-563",
+      "img": "img/2016-17%20PU%20Result/impana%20v.jpg"
+    },
+    {
+      "name": "Jaswanth H S",
+      "details": "P-99 C-94 M-100 B-95 GT-571",
+      "img": "img/2016-17%20PU%20Result/jaswanth%20hs.jpg"
+    },
+    {
+      "name": "Jayanth TR",
+      "details": "P-96 C-88 M-94 B-93 GT-550",
+      "img": "img/2016-17%20PU%20Result/jayanth%20tr.jpg"
+    },
+    {
+      "name": "Jayashree P",
+      "details": "P-98 C-92 M-96 B-95 GT-565",
+      "img": "img/2016-17%20PU%20Result/jayashree.jpg"
+    },
+    {
+      "name": "Jeevith M Naik",
+      "details": "P-91 C-87 M-93 B-84 GT-529",
+      "img": "img/2016-17%20PU%20Result/jeevith%20m%20naik.jpg"
+    },
+    {
+      "name": "Jyothi",
+      "details": "P-96 C-94 M-96 B-92 GT-559",
+      "img": "img/2016-17%20PU%20Result/jyothi.jpg"
+    },
+    {
+      "name": "Suman K",
+      "details": "P-89 C-97 M-91 B-94 GT-542",
+      "img": "img/2016-17%20PU%20Result/k%20suman.jpg"
+    },
+    {
+      "name": "Karthik K",
+      "details": "P-96 C-95 M-92 B-95 GT-560",
+      "img": "img/2016-17%20PU%20Result/karthik%20k.jpg"
+    },
+    {
+      "name": "Karthik V C",
+      "details": "P-100 C-93 M-93 B-93 GT-557",
+      "img": "img/2016-17%20PU%20Result/karthik%20vc.jpg"
+    },
+    {
+      "name": "Kashigowda M S",
+      "details": "P-99 C-96 M-95 B-96 GT-560",
+      "img": "img/2016-17%20PU%20Result/kashigowda.jpg"
+    },
+    {
+      "name": "Keerthan K P",
+      "details": "P-97 C-96 M-100 B-99 GT-573",
+      "img": "img/2016-17%20PU%20Result/keerthan%20kp.jpg"
+    },
+    {
+      "name": "Keerthi B S",
+      "details": "P-95 C-87 M-96 B-98 GT-551",
+      "img": "img/2016-17%20PU%20Result/keerthi%20bs.jpg"
+    },
+    {
+      "name": "KN Manjunath",
+      "details": "P-96 C-86 M-89 B-91 GT-514",
+      "img": "img/2016-17%20PU%20Result/kn%20manjunath.jpg"
+    },
+    {
+      "name": "Kruthi Chandrashekar",
+      "details": "P-97 C-93 M-84 B-96 GT-552",
+      "img": "img/2016-17%20PU%20Result/kruthi%20chandrashekar.jpg"
+    },
+    {
+      "name": "Kruthika G",
+      "details": "P-93 C-94 M-100 B-100 GT-562",
+      "img": "img/2016-17%20PU%20Result/kruthika%20g.jpg"
+    },
+    {
+      "name": "Kruthika M",
+      "details": "P-99 C-96 M-100 B-100 GT-571",
+      "img": "img/2016-17%20PU%20Result/kruthika%20m.jpg"
+    },
+    {
+      "name": "Kushal G",
+      "details": "P-100 C-97 M-100 B-96 GT-565",
+      "img": "img/2016-17%20PU%20Result/kushal%20g.jpg"
+    },
+    {
+      "name": "Kushal H D",
+      "details": "P-100 C-100 M-100 B-99 GT-586",
+      "img": "img/2016-17%20PU%20Result/kushal%20hd.jpg"
+    },
+    {
+      "name": "L Padmaraj",
+      "details": "P-97 C-82 M-85 CS-93 GT-538",
+      "img": "img/2016-17%20PU%20Result/l%20padmaraj.jpg"
+    },
+    {
+      "name": "Lakshmi L",
+      "details": "P-88 C-78 M-80 B-98 GT-532",
+      "img": "img/2016-17%20PU%20Result/lakshmi%20l.jpg"
+    },
+    {
+      "name": "Likhitha R Gowda",
+      "details": "P-99 C-99 M-98 B-99 GT-584",
+      "img": "img/2016-17%20PU%20Result/likitha%20r%20gowda.jpg"
+    },
+    {
+      "name": "Lohith Acharya C M",
+      "details": "P-98 C-94 M-93 B-95 GT-567",
+      "img": "img/2016-17%20PU%20Result/lohith%20acharya.jpg"
+    },
+    {
+      "name": "M Shamanth",
+      "details": "P-96 C-90 M-98 CS-100",
+      "img": "img/2016-17%20PU%20Result/m%20shamanth.jpg"
+    },
+    {
+      "name": "Mahima",
+      "details": "P-89 C-81 M-83 B-96 GT-525",
+      "img": "img/2016-17%20PU%20Result/mahima.jpg"
+    },
+    {
+      "name": "Manasvi K",
+      "details": "P-86 C-89 M-92 CS-100 GT-538",
+      "img": "img/2016-17%20PU%20Result/manasvi%20k.jpg"
+    },
+    {
+      "name": "Manasvi ND",
+      "details": "P-99 C-98 M-99 B-100 GT-584",
+      "img": "img/2016-17%20PU%20Result/manasvi%20nd.jpg"
+    },
+    {
+      "name": "Maqsood Pasha K M",
+      "details": "P-95 C-94 M-66 B-99 GT-531",
+      "img": "img/2016-17%20PU%20Result/maqsood%20pasha.jpg"
+    },
+    {
+      "name": "Megha B M",
+      "details": "P-92 C-83 M-76 CS-91 GT-533",
+      "img": "img/2016-17%20PU%20Result/megha%20bm.jpg"
+    },
+    {
+      "name": "Megha D",
+      "details": "P-96 C-94 M-95 B-99 GT-568",
+      "img": "img/2016-17%20PU%20Result/megha%20d.jpg"
+    },
+    {
+      "name": "Megha P",
+      "details": "P-95 C-91 M-79 B-95 GT-542",
+      "img": "img/2016-17%20PU%20Result/megha%20p.jpg"
+    },
+    {
+      "name": "Meghana C S",
+      "details": "P-96 C-89 M-86 B-94 GT-527",
+      "img": "img/2016-17%20PU%20Result/meghana%20cs.jpg"
+    },
+    {
+      "name": "Meghana S Gowda",
+      "details": "P-94 C-85 M-85 B-94 GT-515",
+      "img": "img/2016-17%20PU%20Result/meghana%20s%20gowda.jpg"
+    },
+    {
+      "name": "Meghana S P",
+      "details": "P-87 C-85 M-78 B-98 GT-540",
+      "img": "img/2016-17%20PU%20Result/meghana%20sp.jpg"
+    },
+    {
+      "name": "Meraj Mubeen",
+      "details": "P-96 C-92 M-91 B-99 GT-564",
+      "img": "img/2016-17%20PU%20Result/meraj%20mubeen.jpg"
+    },
+    {
+      "name": "Mithun H M",
+      "details": "P-94 C-87 M-85 B-98 GT-547",
+      "img": "img/2016-17%20PU%20Result/mithun%20hm.jpg"
+    },
+    {
+      "name": "Mohammed Sameer",
+      "details": "P-99 C-95 M-93 CS-98 GT-570",
+      "img": "img/2016-17%20PU%20Result/mohammed%20sameer.jpg"
+    },
+    {
+      "name": "Mohammed Tahir",
+      "details": "P-98 C-90 M-87 B-96 GT-558",
+      "img": "img/2016-17%20PU%20Result/mohammed%20tahir.jpg"
+    },
+    {
+      "name": "Mohit Nagraj",
+      "details": "P-92 C-82 M-81 B-97 GT-534",
+      "img": "img/2016-17%20PU%20Result/mohith%20nagaraj.jpg"
+    },
+    {
+      "name": "Mokshith D V",
+      "details": "P-99 C-100 M-93 B-98 GT-573",
+      "img": "img/2016-17%20PU%20Result/mokshith%20dv.jpg"
+    },
+    {
+      "name": "Monisha H G",
+      "details": "P-94 C-88 M-89 B-95 GT-539",
+      "img": "img/2016-17%20PU%20Result/monisha.jpg"
+    },
+    {
+      "name": "Moulya H N",
+      "details": "P-96 C-92 M-88 B-97 GT-561",
+      "img": "img/2016-17%20PU%20Result/moulya%20hn.jpg"
+    },
+    {
+      "name": "M R Rakshith",
+      "details": "P-88 C-82 M-88 CS-94 GT-518",
+      "img": "img/2016-17%20PU%20Result/mr%20rakshith.jpg"
+    },
+    {
+      "name": "Namana K T",
+      "details": "P-100 C-89 M-96 B-96 GT-571",
+      "img": "img/2016-17%20PU%20Result/namana%20kt.jpg"
+    },
+    {
+      "name": "Nanditha C",
+      "details": "P-96 C-98 M-99 B-97",
+      "img": "img/2016-17%20PU%20Result/nanditha%20c.jpg"
+    },
+    {
+      "name": "Vanditha D V",
+      "details": "P-90 C-78 M-77 B-95 GT-522",
+      "img": "img/2016-17%20PU%20Result/nanditha%20dv.jpg"
+    },
+    {
+      "name": "Nayana H P",
+      "details": "P-97 C-97 M-97 B-97 GT-570",
+      "img": "img/2016-17%20PU%20Result/nayana%20hp.jpg"
+    },
+    {
+      "name": "Neeraj",
+      "details": "P-97 C-97 M-100 CS-95 GT-567",
+      "img": "img/2016-17%20PU%20Result/neeraj.jpg"
+    },
+    {
+      "name": "Nidhi R",
+      "details": "P-99 C-93 M-99 B-95 GT-561",
+      "img": "img/2016-17%20PU%20Result/nidhi%20r.jpg"
+    },
+    {
+      "name": "Nireeksha H G",
+      "details": "P-88 C-81 M-98 CS-94 GT-522",
+      "img": "img/2016-17%20PU%20Result/nireeksha.jpg"
+    },
+    {
+      "name": "Niriksha Raj K",
+      "details": "P-99 C-95 M-99 B-99 GT-572",
+      "img": "img/2016-17%20PU%20Result/niriksha%20k.jpg"
+    },
+    {
+      "name": "Nirupa Raj",
+      "details": "P-99 C-94 M-99 B-94 GT-564",
+      "img": "img/2016-17%20PU%20Result/nirupa%20raj.jpg"
+    },
+    {
+      "name": "Nisha A G",
+      "details": "P-91 C-73 M-93 B-96 GT-538",
+      "img": "img/2016-17%20PU%20Result/nisha%20ag.jpg"
+    },
+    {
+      "name": "Nithin K",
+      "details": "P-92 C-75 M-82 CS-96",
+      "img": "img/2016-17%20PU%20Result/nithin%20k.jpg"
+    },
+    {
+      "name": "Nuthan",
+      "details": "P-92 C-90 M-93 B-98 GT-555",
+      "img": "img/2016-17%20PU%20Result/nuthan.jpg"
+    },
+    {
+      "name": "Parikshith B M",
+      "details": "P-96 C-74 M-92 CS-99 GT-545",
+      "img": "img/2016-17%20PU%20Result/parikshith%20bm.jpg"
+    },
+    {
+      "name": "Pooja A R",
+      "details": "P-88 C-88 M-85 B-98 GT-530",
+      "img": "img/2016-17%20PU%20Result/pooja%20ar.jpg"
+    },
+    {
+      "name": "Pooja B R",
+      "details": "P-98 C-98 M-93 B-96 GT-566",
+      "img": "img/2016-17%20PU%20Result/pooja%20br.jpg"
+    },
+    {
+      "name": "Pooja K S",
+      "details": "P-90 C-88 M-94 B-96 GT-551",
+      "img": "img/2016-17%20PU%20Result/pooja%20ks.jpg"
+    },
+    {
+      "name": "Prathap H L",
+      "details": "P-92 C-85 M-85 CS-99 GT-531",
+      "img": "img/2016-17%20PU%20Result/prathap%20hl.jpg"
+    },
+    {
+      "name": "Pratheeksha M S",
+      "details": "P-95 C-81 M-89 B-95 GT-538",
+      "img": "img/2016-17%20PU%20Result/pratheeksha.jpg"
+    },
+    {
+      "name": "Preethi Jagannath",
+      "details": "P-100 C-98 M-99 B-98 GT-581",
+      "img": "img/2016-17%20PU%20Result/preethi%20jagannath.jpg"
+    },
+    {
+      "name": "Priya N",
+      "details": "P-95 C-80 M-92 B-95 GT-533",
+      "img": "img/2016-17%20PU%20Result/priya.jpg"
+    },
+    {
+      "name": "Priyanka H K",
+      "details": "P-100 C-92 M-99 B-99 GT-575",
+      "img": "img/2016-17%20PU%20Result/priyanka%20hk.jpg"
+    },
+    {
+      "name": "Priyanka H N",
+      "details": "P-95 C-85 M-86 CS-96 GT-523",
+      "img": "img/2016-17%20PU%20Result/priyanka%20hn.jpg"
+    },
+    {
+      "name": "Priyanka M",
+      "details": "P-100 C-99 M-94 B-98 GT-576",
+      "img": "img/2016-17%20PU%20Result/priyanka%20m.jpg"
+    },
+    {
+      "name": "Pruthvi S",
+      "details": "P-96 C-78 M-96 B-95 GT-527",
+      "img": "img/2016-17%20PU%20Result/pruthvi%20s.jpg"
+    },
+    {
+      "name": "Punith S N",
+      "details": "P-90 C-92 M-99 B-99 GT-555",
+      "img": "img/2016-17%20PU%20Result/punith%20sn.jpg"
+    },
+    {
+      "name": "Pushpa HT",
+      "details": "P-93 C-90 M-96 B-100 GT-558",
+      "img": "img/2016-17%20PU%20Result/pushpa%20ht.jpg"
+    },
+    {
+      "name": "PushpaK D",
+      "details": "P-94 C-83 M-97 B-98 GT-547",
+      "img": "img/2016-17%20PU%20Result/pushpak%20d.jpg"
+    },
+    {
+      "name": "Rabiya Tazanain",
+      "details": "P-90 C-71 M-80 B-96 GT-518",
+      "img": "img/2016-17%20PU%20Result/rabiya.jpg"
+    },
+    {
+      "name": "Rachana R",
+      "details": "P-97 C-85 M-99 B-97 GT-562",
+      "img": "img/2016-17%20PU%20Result/rachana%20r.jpg"
+    },
+    {
+      "name": "Rahul H K",
+      "details": "P-92 C-92 M-98 B-96 GT-557",
+      "img": "img/2016-17%20PU%20Result/rahul%20hk.jpg"
+    },
+    {
+      "name": "Rakesh J",
+      "details": "P-99 C-87 M-98 B-100 GT-558",
+      "img": "img/2016-17%20PU%20Result/rakesh%20j.jpg"
+    },
+    {
+      "name": "Rakshith J",
+      "details": "P-96 C-87 M-99 B-98 GT-567",
+      "img": "img/2016-17%20PU%20Result/rakshith%20j.jpg"
+    },
+    {
+      "name": "Rakshith K J",
+      "details": "P-97 C-83 M-73 B-98 GT-531",
+      "img": "img/2016-17%20PU%20Result/rakshith%20kj.jpg"
+    },
+    {
+      "name": "Ramitha M S",
+      "details": "P-93 C-92 M-90 B-98 GT-561",
+      "img": "img/2016-17%20PU%20Result/ramitha%20ms.jpg"
+    },
+    {
+      "name": "Rani K P",
+      "details": "P-94 C-87 M-91 B-98 GT-555",
+      "img": "img/2016-17%20PU%20Result/rani%20kp.jpg"
+    },
+    {
+      "name": "Ranjitha J  Shastry",
+      "details": "P-83 C-86 M-65 B-95 GT-512",
+      "img": "img/2016-17%20PU%20Result/ranjitha%20j%20shastry.jpg"
+    },
+    {
+      "name": "Revanth P N",
+      "details": "P-99 C-89 M-96 B-97 GT-553",
+      "img": "img/2016-17%20PU%20Result/revanth%20pn.jpg"
+    },
+    {
+      "name": "Rithvik B",
+      "details": "P-100 C-94 M-98 CS-97 GT-575",
+      "img": "img/2016-17%20PU%20Result/rithvik%20b.jpg"
+    },
+    {
+      "name": "Rohan R",
+      "details": "P-96 C-88 M-94 B-97 GT-537",
+      "img": "img/2016-17%20PU%20Result/rohan%20r.jpg"
+    },
+    {
+      "name": "Rohan YJ",
+      "details": "P-97 C-88 M-100 B-96 GT-559",
+      "img": "img/2016-17%20PU%20Result/rohan%20yj.jpg"
+    },
+    {
+      "name": "Rohith Jain",
+      "details": "P-98 C-84 M-93 B-94 GT-549",
+      "img": "img/2016-17%20PU%20Result/rohith%20jain.jpg"
+    },
+    {
+      "name": "Roja Mallik S P",
+      "details": "P-95 C-89 M-100 B-99 GT-565",
+      "img": "img/2016-17%20PU%20Result/roja%20mallik.jpg"
+    },
+    {
+      "name": "Ruba Fathima",
+      "details": "P-98 C-85 M-100 B-97 GT-547",
+      "img": "img/2016-17%20PU%20Result/ruba%20fathima.jpg"
+    },
+    {
+      "name": "S Varnika",
+      "details": "P-90 C-93 M-77 B-98 GT-545",
+      "img": "img/2016-17%20PU%20Result/s%20varnika.jpg"
+    },
+    {
+      "name": "Sachin J K",
+      "details": "P-90 C-78 M-81 B-95 GT-519",
+      "img": "img/2016-17%20PU%20Result/sachin%20jk.jpg"
+    },
+    {
+      "name": "Sagar H S",
+      "details": "P-95 C-86 M-86 B-99 GT-550",
+      "img": "img/2016-17%20PU%20Result/sagar%20hs.jpg"
+    },
+    {
+      "name": "Sahana",
+      "details": "P-95 C-87 M-95 B-99 GT-559",
+      "img": "img/2016-17%20PU%20Result/sahana%202.jpg"
+    },
+    {
+      "name": "Sahana BK",
+      "details": "P-96 C-84 M-98 B-95 GT-561",
+      "img": "img/2016-17%20PU%20Result/sahana%20bk.jpg"
+    },
+    {
+      "name": "Sahana H P",
+      "details": "P-92 C-94 M-92 B-100 GT-564",
+      "img": "img/2016-17%20PU%20Result/sahana%20hp.jpg"
+    },
+    {
+      "name": "Sahana N M",
+      "details": "P-87 C-83 M-80 B-97 GT-535",
+      "img": "img/2016-17%20PU%20Result/sahana%20nm.jpg"
+    },
+    {
+      "name": "Sahanaraj D R",
+      "details": "P-99 C-100 M-100 B-99 GT-576",
+      "img": "img/2016-17%20PU%20Result/sahana%20raj.jpg"
+    },
+    {
+      "name": "Sahana S Kumar",
+      "details": "P-98 C-85 M-92 B-100 GT-558",
+      "img": "img/2016-17%20PU%20Result/sahana%20s%20kumar.jpg"
+    },
+    {
+      "name": "Samrudhi J",
+      "details": "P-95 C-87 M-82 B-100 GT-542",
+      "img": "img/2016-17%20PU%20Result/samrudhi%20j.jpg"
+    },
+    {
+      "name": "Samyama Patel HS",
+      "details": "P-80 C-95 M-91 B-98 GT-547",
+      "img": "img/2016-17%20PU%20Result/samyama%20patel%20hs.jpg"
+    },
+    {
+      "name": "Sandeep H K",
+      "details": "P-94 C-87 M-86 B-95 GT-525",
+      "img": "img/2016-17%20PU%20Result/sandeep%20hk.jpg"
+    },
+    {
+      "name": "Sanjana K A",
+      "details": "P-92 C-93 M-92 B-98 GT-550",
+      "img": "img/2016-17%20PU%20Result/sanjana%20ka.jpg"
+    },
+    {
+      "name": "Sanjana N S",
+      "details": "P-93 C-88 M-85 B-95 GT-533",
+      "img": "img/2016-17%20PU%20Result/sanjana%20ns.jpg"
+    },
+    {
+      "name": "Sanjay H R",
+      "details": "P-96 C-90 M-93 B-100 GT-554",
+      "img": "img/2016-17%20PU%20Result/sanjay%20hr.jpg"
+    },
+    {
+      "name": "Sanjay K R",
+      "details": "P-97 C-88 M-96 B-99 GT-548",
+      "img": "img/2016-17%20PU%20Result/sanjay%20kr.jpg"
+    },
+    {
+      "name": "SD Nehal Raj",
+      "details": "P-98 C-96 M-99 B-99 GT-574",
+      "img": "img/2016-17%20PU%20Result/sd%20nihal%20raj.jpg"
+    },
+    {
+      "name": "Shadakshari SR",
+      "details": "P- C- M- B-",
+      "img": "img/2016-17%20PU%20Result/shadakshari%20sr.jpg"
+    },
+    {
+      "name": "Sharun YS",
+      "details": "P-95 C-91 M-91 B-87 GT-541",
+      "img": "img/2016-17%20PU%20Result/sharun%20ys.jpg"
+    },
+    {
+      "name": "Shashank Prasad C K",
+      "details": "P-94 C-92 M-93 B-92 GT-552",
+      "img": "img/2016-17%20PU%20Result/shashank%20prasad.jpg"
+    },
+    {
+      "name": "Shivaprasad KS",
+      "details": "P-99 C-96 M-100 B-96 GT-583",
+      "img": "img/2016-17%20PU%20Result/shivaprasad%20ks.jpg"
+    },
+    {
+      "name": "Shreeraksha S",
+      "details": "P-98 C-93 M-97 B-93 GT-571",
+      "img": "img/2016-17%20PU%20Result/shreeraksha.jpg"
+    },
+    {
+      "name": "Shresta H M",
+      "details": "P-97 C-85 M-86 B-92 GT-546",
+      "img": "img/2016-17%20PU%20Result/shreshta%20hm.jpg"
+    },
+    {
+      "name": "Shreya G L",
+      "details": "P-92 C-87 M-91 B-92 GT-554",
+      "img": "img/2016-17%20PU%20Result/shreya%20gl.jpg"
+    },
+    {
+      "name": "Shreya N",
+      "details": "P-97 C-91 M-89 B-89 GT-545",
+      "img": "img/2016-17%20PU%20Result/shreya%20n.jpg"
+    },
+    {
+      "name": "Shreyanka M",
+      "details": "P-89 C-85 M-82 B-95 GT-539",
+      "img": "img/2016-17%20PU%20Result/shreyanka%20m.jpg"
+    },
+    {
+      "name": "Shreyas M S",
+      "details": "P-100 C-91 M-98 B-96 GT-565",
+      "img": "img/2016-17%20PU%20Result/shreyas%20ms.jpg"
+    },
+    {
+      "name": "Shruthi U J",
+      "details": "P-92 C-89 M-95 B-88 GT-525",
+      "img": "img/2016-17%20PU%20Result/shruthi%20uj.jpg"
+    },
+    {
+      "name": "Shubha M M",
+      "details": "P-96 C-94 M-95 B-100 GT-578",
+      "img": "img/2016-17%20PU%20Result/shubha.jpg"
+    },
+    {
+      "name": "Shwetha M",
+      "details": "P-90 C-67 M-80 B-96 GT-525",
+      "img": "img/2016-17%20PU%20Result/shwetha%20m.jpg"
+    },
+    {
+      "name": "Sinchana B M",
+      "details": "P-95 C-83 M-92 B-95 GT-556",
+      "img": "img/2016-17%20PU%20Result/sinchana%20bm.jpg"
+    },
+    {
+      "name": "Sneha Gowda RS",
+      "details": "P-98 C-97 M-96 B-100 GT-573",
+      "img": "img/2016-17%20PU%20Result/sneha%20gowda%20rs.jpg"
+    },
+    {
+      "name": "Sonika M C",
+      "details": "P-100 C-95 M-98 B-96 GT-575",
+      "img": "img/2016-17%20PU%20Result/sonika%20mc.jpg"
+    },
+    {
+      "name": "Soumaya U",
+      "details": "P-96 C-79 M-74 B-96 GT-525",
+      "img": "img/2016-17%20PU%20Result/soumya%20u.jpg"
+    },
+    {
+      "name": "Soundarya J",
+      "details": "P-87 C-89 M-81 B-90 GT-528",
+      "img": "img/2016-17%20PU%20Result/soundarya%20j.jpg"
+    },
+    {
+      "name": "Sourabh G Krishna",
+      "details": "P-94 C-93 M-92 B-92 GT-553",
+      "img": "img/2016-17%20PU%20Result/sourabh%20g%20krishna.jpg"
+    },
+    {
+      "name": "Sparsha K",
+      "details": "P-86 C-85 M-79 B-92 GT-532",
+      "img": "img/2016-17%20PU%20Result/sparsha%20k.jpg"
+    },
+    {
+      "name": "Sparsha Raj R",
+      "details": "P-100 C-91 M-93 B-94 GT-559",
+      "img": "img/2016-17%20PU%20Result/sparsha%20raj%20r.jpg"
+    },
+    {
+      "name": "Spoorthi A",
+      "details": "P-97 C-93 M-98 B-96 GT-571",
+      "img": "img/2016-17%20PU%20Result/spoorthi%20a.jpg"
+    },
+    {
+      "name": "Spoorthi C M",
+      "details": "P-94 C-84 M-93 B-89 GT-530",
+      "img": "img/2016-17%20PU%20Result/spoorthi%20cm.jpg"
+    },
+    {
+      "name": "Spoorthi V",
+      "details": "P-95 C-92 M-92 B-90 GT-551",
+      "img": "img/2016-17%20PU%20Result/spoorthi%20v.jpg"
+    },
+    {
+      "name": "Sriraksha H V",
+      "details": "P-95 C-82 M-90 B-92 GT-545",
+      "img": "img/2016-17%20PU%20Result/sri%20raksha.jpg"
+    },
+    {
+      "name": "Srushti B M",
+      "details": "P-97 C-81 M-96 B-93 GT-545",
+      "img": "img/2016-17%20PU%20Result/srushti%20bm.jpg"
+    },
+    {
+      "name": "Srushti Shekar",
+      "details": "P-96 C-85 M-82 B-96 GT-521",
+      "img": "img/2016-17%20PU%20Result/srushti%20shekar.jpg"
+    },
+    {
+      "name": "Suhas M S",
+      "details": "P-93 C-91 M-90 B-96 GT-510",
+      "img": "img/2016-17%20PU%20Result/suhas%20ms.jpg"
+    },
+    {
+      "name": "Suma H R",
+      "details": "P-98 C-91 M-99 B-98 GT-567",
+      "img": "img/2016-17%20PU%20Result/suma%20hr.jpg"
+    },
+    {
+      "name": "Sumith D B",
+      "details": "P-96 C-88 M-88 B-98 GT-555",
+      "img": "img/2016-17%20PU%20Result/sumith%20db.jpg"
+    },
+    {
+      "name": "Sumukh S  Baradwaj",
+      "details": "P-90 C-71 M-83 CS-95 GT-515",
+      "img": "img/2016-17%20PU%20Result/sumukh%20s%20baradwaj.jpg"
+    },
+    {
+      "name": "Surabhi C S",
+      "details": "P-93 C-81 M-71 B-95 GT-516",
+      "img": "img/2016-17%20PU%20Result/surabhi%20cs.jpg"
+    },
+    {
+      "name": "Sushma Y J",
+      "details": "P-97 C-95 M-95 CS-100 GT-565",
+      "img": "img/2016-17%20PU%20Result/sushma%20yj.jpg"
+    },
+    {
+      "name": "Syedha Shafain Fathima",
+      "details": "P-97 C-94 M-92 B-98 GT-568",
+      "img": "img/2016-17%20PU%20Result/syeda.jpg"
+    },
+    {
+      "name": "Tarun V Gujjar",
+      "details": "P-99 C-90 M-100 CS-97 GT-574",
+      "img": "img/2016-17%20PU%20Result/tarun%20v%20gujjar.jpg"
+    },
+    {
+      "name": "Taznain Hiba",
+      "details": "P-97 C-93 M-97 B-99 GT-565",
+      "img": "img/2016-17%20PU%20Result/taznain%20hiba.jpg"
+    },
+    {
+      "name": "Tejaswini",
+      "details": "P-96 C-94 M-100 B-99 GT-577",
+      "img": "img/2016-17%20PU%20Result/tejaswini.jpg"
+    },
+    {
+      "name": "Thanu Shree A N",
+      "details": "P-97 C-91 M-96 B-99 GT-566",
+      "img": "img/2016-17%20PU%20Result/thanu%20shree.jpg"
+    },
+    {
+      "name": "Thanushree M",
+      "details": "P-90 C-83 M-95 CS-99 GT-548",
+      "img": "img/2016-17%20PU%20Result/thanushree%20m.jpg"
+    },
+    {
+      "name": "Tilak GK",
+      "details": "P-96 C-88 M-100 CS-98 GT-544",
+      "img": "img/2016-17%20PU%20Result/thilak%20gk.jpg"
+    },
+    {
+      "name": "Thilakraj K L",
+      "details": "P-87 C-94 M-93 B-99 GT-551",
+      "img": "img/2016-17%20PU%20Result/thilakraj%20kl.jpg"
+    },
+    {
+      "name": "Thimmaiah H P",
+      "details": "P-98 C-96 M-93 B-99 GT-564",
+      "img": "img/2016-17%20PU%20Result/thimmaiah.jpg"
+    },
+    {
+      "name": "Thrishal B K",
+      "details": "P-96 C-79 M-86 B-98 GT-535",
+      "img": "img/2016-17%20PU%20Result/thrishal%20sk.jpg"
+    },
+    {
+      "name": "Thrishala S Kaniyar",
+      "details": "P-95 C-90 M-82 B-93 GT-536",
+      "img": "img/2016-17%20PU%20Result/thrishila.jpg"
+    },
+    {
+      "name": "Usama Zain",
+      "details": "P-98 C-87 M-90 CS-96 GT-542",
+      "img": "img/2016-17%20PU%20Result/usama%20zain.jpg"
+    },
+    {
+      "name": "Varsha P",
+      "details": "P-96 C-78 M-98 B-95 GT-536",
+      "img": "img/2016-17%20PU%20Result/varsha%20p.jpg"
+    },
+    {
+      "name": "Varshitha A H",
+      "details": "P-94 C-91 M-80 B-98 GT-540",
+      "img": "img/2016-17%20PU%20Result/varshitha%20ah.jpg"
+    },
+    {
+      "name": "Vasavi B V",
+      "details": "P-100 C-94 M-100 B-97 GT-575",
+      "img": "img/2016-17%20PU%20Result/vasavi%20bv.jpg"
+    },
+    {
+      "name": "Vidya D",
+      "details": "P-92 C-89 M-74 B-95 GT-520",
+      "img": "img/2016-17%20PU%20Result/vidya%20d.jpg"
+    },
+    {
+      "name": "Vidya J Hegde",
+      "details": "P-98 C-83 M-93 B-98 GT-540",
+      "img": "img/2016-17%20PU%20Result/vidya%20j%20hegde.jpg"
+    },
+    {
+      "name": "Vidya",
+      "details": "P-99 C-97 M-99 B-97 GT-578",
+      "img": "img/2016-17%20PU%20Result/vidya.jpg"
+    },
+    {
+      "name": "Vidyashree G S",
+      "details": "P-99 C-93 M-91 B-93 GT-562",
+      "img": "img/2016-17%20PU%20Result/vidyashree%20gs.jpg"
+    },
+    {
+      "name": "Vikas L",
+      "details": "P-100 C-97 M-100 B-100 GT-583",
+      "img": "img/2016-17%20PU%20Result/vikas.jpg"
+    },
+    {
+      "name": "Vikhyath N",
+      "details": "P-94 C-91 M-86 B-100 GT-551",
+      "img": "img/2016-17%20PU%20Result/vikyath%20n.jpg"
+    },
+    {
+      "name": "Vimarsha H P",
+      "details": "P-96 C-96 M-92 B-100 GT-564",
+      "img": "img/2016-17%20PU%20Result/vimarsha.jpg"
+    },
+    {
+      "name": "Vinay G R",
+      "details": "P-96 C-87 M-82 B-99 GT-531",
+      "img": "img/2016-17%20PU%20Result/vinay%20gr.jpg"
+    },
+    {
+      "name": "Vineetha Kothari",
+      "details": "P-99 C-86 M-69 B-96 GT-516",
+      "img": "img/2016-17%20PU%20Result/vineeth%20kothari.jpg"
+    },
+    {
+      "name": "Vishwas K B",
+      "details": "P-100 C-94 M-98 B-99 GT-568",
+      "img": "img/2016-17%20PU%20Result/vishwas.jpg"
+    },
+    {
+      "name": "Vismitha K",
+      "details": "P-95 C-83 M-87 B-98 GT-540",
+      "img": "img/2016-17%20PU%20Result/vismitha%20k.jpg"
+    },
+    {
+      "name": "Wajeeha Zainab",
+      "details": "P-100 C-98 M-100 B-99 GT-578",
+      "img": "img/2016-17%20PU%20Result/wajeeha%20zainab.jpg"
+    },
+    {
+      "name": "Yamini HV",
+      "details": "P-91 C-88 M-76 B-99 GT-530",
+      "img": "img/2016-17%20PU%20Result/yamini%20hv.jpg"
+    },
+    {
+      "name": "Yamuna H V",
+      "details": "P-94 C-92 M-67 B-100 GT-532",
+      "img": "img/2016-17%20PU%20Result/yamuna%20hv.jpg"
+    },
+    {
+      "name": "Yashas C",
+      "details": "P-99 C-94 M-98 B-99 GT-562",
+      "img": "img/2016-17%20PU%20Result/yashas%20c.jpg"
+    },
+    {
+      "name": "Yashas H N",
+      "details": "P-96 C-89 M-79 B-97 GT-536",
+      "img": "img/2016-17%20PU%20Result/yashas%20hn.jpg"
+    },
+    {
+      "name": "Yashaswini K",
+      "details": "P-99 C-93 M-94 B-94 GT-564",
+      "img": "img/2016-17%20PU%20Result/yashaswini%20k.jpg"
+    },
+    {
+      "name": "Yashswini K",
+      "details": "P-98 C-94 M-96 B-97 GT-565",
+      "img": "img/2016-17%20PU%20Result/yashaswini.jpg"
+    },
+    {
+      "name": "Yogitha V B",
+      "details": "P-99 C-91 M-99 B-98 GT-573",
+      "img": "img/2016-17%20PU%20Result/yogitha%20vb.jpg"
+    }
+  ],
+  "neet": [
+    {
+      "name": "Aarathi HK",
+      "details": "NEET KAR-3531",
+      "img": "img/2016-17Neet/aarathi%20hk.jpg"
+    },
+    {
+      "name": "Akanksha V Mohan",
+      "details": "NEET KAR-3389",
+      "img": "img/2016-17Neet/akanksha%20v%20mohan.jpg"
+    },
+    {
+      "name": "Amrutha H S",
+      "details": "NEET KAR-4383",
+      "img": "img/2016-17Neet/amrutha%20hs.jpg"
+    },
+    {
+      "name": "Amulya PT",
+      "details": "NEET KAR-2575",
+      "img": "img/2016-17Neet/amulya%20pt.jpg"
+    },
+    {
+      "name": "Apoorva HM",
+      "details": "NEET KAR-2389",
+      "img": "img/2016-17Neet/apoorva%20hm.jpg"
+    },
+    {
+      "name": "Bharthesh BT",
+      "details": "NEET KAR-3728",
+      "img": "img/2016-17Neet/bharthesh.jpg"
+    },
+    {
+      "name": "Bhavaikya M",
+      "details": "NEET KAR-2997",
+      "img": "img/2016-17Neet/bhavaikya.jpg"
+    },
+    {
+      "name": "Bhoomika HC",
+      "details": "NEET KAR-2513",
+      "img": "img/2016-17Neet/bhoomika%20hc.jpg"
+    },
+    {
+      "name": "Bindushree M",
+      "details": "NEET KAR-577",
+      "img": "img/2016-17Neet/bindushree.jpg"
+    },
+    {
+      "name": "Tanishq BR",
+      "details": "NEET KAR-1778",
+      "img": "img/2016-17Neet/br%20tanishq.jpg"
+    },
+    {
+      "name": "Charan SR",
+      "details": "NEET KAR-481",
+      "img": "img/2016-17Neet/charan%20sr.jpg"
+    },
+    {
+      "name": "Chiranth H",
+      "details": "NEET KAR-3760",
+      "img": "img/2016-17Neet/chiranth%20h.jpg"
+    },
+    {
+      "name": "Darshan HA",
+      "details": "NEET KAR-4137",
+      "img": "img/2016-17Neet/darshan%20ha.jpg"
+    },
+    {
+      "name": "Deepak TS",
+      "details": "NEET KAR-4130",
+      "img": "img/2016-17Neet/deepak%20ts.jpg"
+    },
+    {
+      "name": "Govardhan GD",
+      "details": "NEET KAR-133 Rank",
+      "img": "img/2016-17Neet/govardhan%20gowda.jpg"
+    },
+    {
+      "name": "Greeshma D",
+      "details": "NEET KAR-2486",
+      "img": "img/2016-17Neet/greeshma%20d.jpg"
+    },
+    {
+      "name": "Harsha BK",
+      "details": "NEET KAR-1864",
+      "img": "img/2016-17Neet/harsha%20bk.jpg"
+    },
+    {
+      "name": "Harshavardhan HG",
+      "details": "NEET KAR-3261",
+      "img": "img/2016-17Neet/harshavardhan.jpg"
+    },
+    {
+      "name": "Harshitha D",
+      "details": "NEET KAR-2589",
+      "img": "img/2016-17Neet/harshitha%20d.jpg"
+    },
+    {
+      "name": "Harshitha BS",
+      "details": "NEET KAR-1145",
+      "img": "img/2016-17Neet/harshitha.jpg"
+    },
+    {
+      "name": "HEMANTH KP",
+      "details": "NEET KAR-4643",
+      "img": "img/2016-17Neet/hemanth%20kp.jpg"
+    },
+    {
+      "name": "Impana V",
+      "details": "NEET KAR-632",
+      "img": "img/2016-17Neet/impana%20v.jpg"
+    },
+    {
+      "name": "Jaswanth HS",
+      "details": "NEET KAR-1912",
+      "img": "img/2016-17Neet/jaswanth%20hs.jpg"
+    },
+    {
+      "name": "Jayanth TR",
+      "details": "NEET KAR-977",
+      "img": "img/2016-17Neet/jayanth%20tr.jpg"
+    },
+    {
+      "name": "Suman K",
+      "details": "NEET KAR-4992",
+      "img": "img/2016-17Neet/k%20suman.jpg"
+    },
+    {
+      "name": "Keerthan KP",
+      "details": "NEET KAR-3601",
+      "img": "img/2016-17Neet/keerthan%20kp.jpg"
+    },
+    {
+      "name": "Kruthika G",
+      "details": "NEET KAR-3037",
+      "img": "img/2016-17Neet/kruthika%20g.jpg"
+    },
+    {
+      "name": "Kushal G",
+      "details": "NEET KAR-2717",
+      "img": "img/2016-17Neet/kushal%20g.jpg"
+    },
+    {
+      "name": "Kushal HD",
+      "details": "NEET KAR-936",
+      "img": "img/2016-17Neet/kushal%20hd.jpg"
+    },
+    {
+      "name": "Likitha R Gowda",
+      "details": "NEET KAR-3492",
+      "img": "img/2016-17Neet/likitha%20r%20gowda.jpg"
+    },
+    {
+      "name": "Lohith Acharya",
+      "details": "NEET KAR-3388",
+      "img": "img/2016-17Neet/lohith%20acharya.jpg"
+    },
+    {
+      "name": "Manasvi ND",
+      "details": "NEET KAR-1003",
+      "img": "img/2016-17Neet/manasvi%20nd.jpg"
+    },
+    {
+      "name": "Meeraj Mubeen",
+      "details": "NEET KAR-4656",
+      "img": "img/2016-17Neet/meeraj%20mubeen.jpg"
+    },
+    {
+      "name": "Meghana CS",
+      "details": "NEET KAR-4328",
+      "img": "img/2016-17Neet/meghana%20cs.jpg"
+    },
+    {
+      "name": "Mohammed Sameer",
+      "details": "NEET KAR-2685",
+      "img": "img/2016-17Neet/mohammed%20sameer.jpg"
+    },
+    {
+      "name": "Mokshith DV",
+      "details": "NEET KAR-2334",
+      "img": "img/2016-17Neet/mokshith%20dv.jpg"
+    },
+    {
+      "name": "Nanditha C",
+      "details": "NEET KAR-3023",
+      "img": "img/2016-17Neet/nanditha%20c.jpg"
+    },
+    {
+      "name": "Nayana HP",
+      "details": "NEET-KAR-3254",
+      "img": "img/2016-17Neet/nayana%20hp.jpg"
+    },
+    {
+      "name": "Nidhi R",
+      "details": "NEET KAR-3252",
+      "img": "img/2016-17Neet/nidhi%20r.jpg"
+    },
+    {
+      "name": "Pooja BR",
+      "details": "NEET KAR-3791",
+      "img": "img/2016-17Neet/pooja%20br.jpg"
+    },
+    {
+      "name": "Preethi Jagannath",
+      "details": "NEET KAR-245",
+      "img": "img/2016-17Neet/preethi%20jagannath.jpg"
+    },
+    {
+      "name": "Priyanka HK",
+      "details": "NEET KAR-4429",
+      "img": "img/2016-17Neet/priyanka%20hk.jpg"
+    },
+    {
+      "name": "PushpaK D",
+      "details": "NEET KAR-3947",
+      "img": "img/2016-17Neet/pushpak%20d.jpg"
+    },
+    {
+      "name": "Rohan YJ",
+      "details": "NEET KAR-4708",
+      "img": "img/2016-17Neet/rohan%20yj.jpg"
+    },
+    {
+      "name": "Varnika S",
+      "details": "NEET KAR-4622",
+      "img": "img/2016-17Neet/s%20varnika.jpg"
+    },
+    {
+      "name": "Sahana Raj",
+      "details": "NEET KAR-2829",
+      "img": "img/2016-17Neet/sahana%20raj.jpg"
+    },
+    {
+      "name": "SD NihalRaj",
+      "details": "NEET KAR-849",
+      "img": "img/2016-17Neet/sd%20nihal%20raj.jpg"
+    },
+    {
+      "name": "Shivaprasad KS",
+      "details": "NEET KAR-1138",
+      "img": "img/2016-17Neet/shivaprasad%20ks.jpg"
+    },
+    {
+      "name": "Shubha MM",
+      "details": "NEET KAR-4159",
+      "img": "img/2016-17Neet/shubha.jpg"
+    },
+    {
+      "name": "Sonika MC",
+      "details": "NEET KAR-2954",
+      "img": "img/2016-17Neet/sonika%20mc.jpg"
+    },
+    {
+      "name": "Sourabh G Krishna",
+      "details": "NEET KAR-199 Rank",
+      "img": "img/2016-17Neet/sourabh%20g%20krishna.jpg"
+    },
+    {
+      "name": "Sparsha Raj R",
+      "details": "NEET KAR-1160",
+      "img": "img/2016-17Neet/sparsha%20raj%20r.jpg"
+    },
+    {
+      "name": "Spoorthi A",
+      "details": "NEET KAR-3540",
+      "img": "img/2016-17Neet/spoorthi%20a.jpg"
+    },
+    {
+      "name": "Suhas MS",
+      "details": "NEET KAR-4096",
+      "img": "img/2016-17Neet/suhas%20ms.jpg"
+    },
+    {
+      "name": "Taznain Hiba",
+      "details": "NEET KAR-3106",
+      "img": "img/2016-17Neet/taznain%20hiba.jpg"
+    },
+    {
+      "name": "Thilak Raj",
+      "details": "NEET KAR-1023",
+      "img": "img/2016-17Neet/thilakraj%20kl.jpg"
+    },
+    {
+      "name": "Thimmaiah HP",
+      "details": "NEET KAR-3308",
+      "img": "img/2016-17Neet/thimmaiah.jpg"
+    },
+    {
+      "name": "Vasavi BV",
+      "details": "NEET KAR-4269",
+      "img": "img/2016-17Neet/vasavi%20bv.jpg"
+    },
+    {
+      "name": "Vidya",
+      "details": "NEET KAR-3333",
+      "img": "img/2016-17Neet/vidya.jpg"
+    },
+    {
+      "name": "Vikas",
+      "details": "NEET KAR-3863",
+      "img": "img/2016-17Neet/vikas.jpg"
+    },
+    {
+      "name": "Vimarsha",
+      "details": "NEET KAR-4596",
+      "img": "img/2016-17Neet/vimarsha.jpg"
+    },
+    {
+      "name": "Wajeeha Zainab",
+      "details": "NEET KAR-1988",
+      "img": "img/2016-17Neet/wajeeha%20zainab.jpg"
+    }
+  ],
+  "jee": [
+    {
+      "name": "Adithya H",
+      "details": "",
+      "img": "img/2018-19%20JEE/adithya%20h.jpg"
+    },
+    {
+      "name": "Adithya shankar",
+      "details": "",
+      "img": "img/2018-19%20JEE/adithya%20shankar.jpg"
+    },
+    {
+      "name": "Bhavana J",
+      "details": "",
+      "img": "img/2018-19%20JEE/bhavana%20j.jpg"
+    },
+    {
+      "name": "Chinmay H S",
+      "details": "",
+      "img": "img/2018-19%20JEE/chinmay%20hs.jpg"
+    },
+    {
+      "name": "Chiranth J S",
+      "details": "",
+      "img": "img/2018-19%20JEE/chiranth%20js.jpg"
+    },
+    {
+      "name": "Deepak B A",
+      "details": "",
+      "img": "img/2018-19%20JEE/deepak%20ba.jpg"
+    },
+    {
+      "name": "Guruprasad A H",
+      "details": "",
+      "img": "img/2018-19%20JEE/guruprasad%20ah.jpg"
+    },
+    {
+      "name": "Hemanth B L",
+      "details": "",
+      "img": "img/2018-19%20JEE/hemanth%20bl.jpg"
+    },
+    {
+      "name": "Kunal H",
+      "details": "",
+      "img": "img/2018-19%20JEE/kunal%20h.jpg"
+    },
+    {
+      "name": "Likith K P",
+      "details": "",
+      "img": "img/2018-19%20JEE/likith%20kp.jpg"
+    },
+    {
+      "name": "Likith T GOWDA",
+      "details": "",
+      "img": "img/2018-19%20JEE/likith%20t%20gowda.jpg"
+    },
+    {
+      "name": "Lohith Gowda",
+      "details": "",
+      "img": "img/2018-19%20JEE/lohith%20gowda.jpg"
+    },
+    {
+      "name": "Madhusudhan S C",
+      "details": "",
+      "img": "img/2018-19%20JEE/madhusudan%20sc.jpg"
+    },
+    {
+      "name": "Meghana D K",
+      "details": "",
+      "img": "img/2018-19%20JEE/meghana%20dk.jpg"
+    },
+    {
+      "name": "Meghana D S",
+      "details": "",
+      "img": "img/2018-19%20JEE/meghana%20ds.jpg"
+    },
+    {
+      "name": "Mohammed Atif",
+      "details": "",
+      "img": "img/2018-19%20JEE/mohammed%20atif.jpg"
+    },
+    {
+      "name": "Niharika B S",
+      "details": "",
+      "img": "img/2018-19%20JEE/niharika%20bs.jpg"
+    },
+    {
+      "name": "Noor Fathima",
+      "details": "",
+      "img": "img/2018-19%20JEE/noor%20fathima.jpg"
+    },
+    {
+      "name": "Noothan R Gowda",
+      "details": "",
+      "img": "img/2018-19%20JEE/noothan%20r%20gowda.jpg"
+    },
+    {
+      "name": "Pavan S",
+      "details": "",
+      "img": "img/2018-19%20JEE/pavan%20s.jpg"
+    },
+    {
+      "name": "Prajwal D A",
+      "details": "",
+      "img": "img/2018-19%20JEE/prajwal%20da.jpg"
+    },
+    {
+      "name": "Prajwal J L",
+      "details": "",
+      "img": "img/2018-19%20JEE/prajwal%20jl.jpg"
+    },
+    {
+      "name": "Pramod H S",
+      "details": "",
+      "img": "img/2018-19%20JEE/pramod%20hs.jpg"
+    },
+    {
+      "name": "Prathiksha U",
+      "details": "",
+      "img": "img/2018-19%20JEE/prathiksha%20u.jpg"
+    },
+    {
+      "name": "Priyadarshini S",
+      "details": "",
+      "img": "img/2018-19%20JEE/priyadarshini%20s.jpg"
+    },
+    {
+      "name": "Rachana Devaraj",
+      "details": "",
+      "img": "img/2018-19%20JEE/rachana%20devaraj.jpg"
+    },
+    {
+      "name": "Raksha M Bharadwaj",
+      "details": "",
+      "img": "img/2018-19%20JEE/raksha%20m%20bharadwaj.jpg"
+    },
+    {
+      "name": "Ravi Kiran H R",
+      "details": "",
+      "img": "img/2018-19%20JEE/ravi%20kiran%20hr.jpg"
+    },
+    {
+      "name": "Ravishankar K B",
+      "details": "",
+      "img": "img/2018-19%20JEE/ravishankar%20kb.jpg"
+    },
+    {
+      "name": "Revathi P S",
+      "details": "",
+      "img": "img/2018-19%20JEE/revathi%20ps.jpg"
+    },
+    {
+      "name": "Rishab",
+      "details": "",
+      "img": "img/2018-19%20JEE/rishab.jpg"
+    },
+    {
+      "name": "Rohini S",
+      "details": "",
+      "img": "img/2018-19%20JEE/rohini%20s.jpg"
+    },
+    {
+      "name": "Rohith H S",
+      "details": "",
+      "img": "img/2018-19%20JEE/rohith%20hs.jpg"
+    },
+    {
+      "name": "Sagar Raj",
+      "details": "",
+      "img": "img/2018-19%20JEE/sagar%20raj.jpg"
+    },
+    {
+      "name": "Samyam Lokpriya",
+      "details": "",
+      "img": "img/2018-19%20JEE/samyam%20lokpriya.jpg"
+    },
+    {
+      "name": "Sandeep H S",
+      "details": "",
+      "img": "img/2018-19%20JEE/sandeep%20hs.jpg"
+    },
+    {
+      "name": "Shalini S G",
+      "details": "",
+      "img": "img/2018-19%20JEE/shalini%20sg.jpg"
+    },
+    {
+      "name": "Shashank Gowda",
+      "details": "",
+      "img": "img/2018-19%20JEE/shashank%20gowda.jpg"
+    },
+    {
+      "name": "Shreevathsa B K",
+      "details": "",
+      "img": "img/2018-19%20JEE/shreevathsa%20bk.jpg"
+    },
+    {
+      "name": "Shreyas Suri",
+      "details": "",
+      "img": "img/2018-19%20JEE/shreyas%20suri.jpg"
+    },
+    {
+      "name": "Shyam Sundar",
+      "details": "",
+      "img": "img/2018-19%20JEE/shyam%20sundar.jpg"
+    },
+    {
+      "name": "Sri lakshmi M S",
+      "details": "",
+      "img": "img/2018-19%20JEE/sri%20lakshmi%20ms.jpg"
+    },
+    {
+      "name": "Srikantha M L",
+      "details": "",
+      "img": "img/2018-19%20JEE/srikantha%20ml.jpg"
+    },
+    {
+      "name": "Thanu N Y",
+      "details": "",
+      "img": "img/2018-19%20JEE/thanu%20ny.jpg"
+    },
+    {
+      "name": "Thrupthi B P",
+      "details": "",
+      "img": "img/2018-19%20JEE/thrupthi%20bp.jpg"
+    },
+    {
+      "name": "Ullas B S",
+      "details": "",
+      "img": "img/2018-19%20JEE/ullas%20bs.jpg"
+    },
+    {
+      "name": "Vallish Bharadwaj",
+      "details": "",
+      "img": "img/2018-19%20JEE/vallish%20bharadwaj.jpg"
+    },
+    {
+      "name": "Varshini Raj",
+      "details": "",
+      "img": "img/2018-19%20JEE/varshini%20raj.jpg"
+    },
+    {
+      "name": "Vishwas Gowda",
+      "details": "",
+      "img": "img/2018-19%20JEE/vishwas%20gowda.jpg"
+    }
+  ]
+}
